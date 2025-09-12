@@ -1,0 +1,284 @@
+[
+  {
+    "name": "Space Mountain",
+    "land": "Tomorrowland",
+    "thrillLevel": 5,
+    "type": "ride"
+  },
+  {
+    "name": "Big Thunder Mountain Railroad",
+    "land": "Frontierland",
+    "thrillLevel": 4,
+    "type": "ride"
+  },
+  {
+    "name": "Indiana Jones Adventure",
+    "land": "Adventureland",
+    "thrillLevel": 5,
+    "type": "ride"
+  },
+  {
+    "name": "Matterhorn Bobsleds",
+    "land": "Fantasyland",
+    "thrillLevel": 4,
+    "type": "ride"
+  },
+  {
+    "name": "Star Tours – The Adventures Continue",
+    "land": "Tomorrowland",
+    "thrillLevel": 4,
+    "type": "ride"
+  },
+  {
+    "name": "Millennium Falcon: Smugglers Run",
+    "land": "Star Wars: Galaxy’s Edge",
+    "thrillLevel": 4,
+    "type": "ride"
+  },
+  {
+    "name": "Star Wars: Rise of the Resistance",
+    "land": "Star Wars: Galaxy’s Edge",
+    "thrillLevel": 3,
+    "type": "ride"
+  },
+  {
+    "name": "Haunted Mansion",
+    "land": "New Orleans Square",
+    "thrillLevel": 2,
+    "type": "ride"
+  },
+  {
+    "name": "Pirates of the Caribbean",
+    "land": "New Orleans Square",
+    "thrillLevel": 2,
+    "type": "ride"
+  },
+  {
+    "name": "It's a Small World",
+    "land": "Fantasyland",
+    "thrillLevel": 1,
+    "type": "ride"
+  },
+  {
+    "name": "Peter Pan’s Flight",
+    "land": "Fantasyland",
+    "thrillLevel": 2,
+    "type": "ride"
+  },
+  {
+    "name": "Mr. Toad’s Wild Ride",
+    "land": "Fantasyland",
+    "thrillLevel": 2,
+    "type": "ride"
+  },
+  {
+    "name": "Snow White’s Enchanted Wish",
+    "land": "Fantasyland",
+    "thrillLevel": 2,
+    "type": "ride"
+  },
+  {
+    "name": "Pinocchio’s Daring Journey",
+    "land": "Fantasyland",
+    "thrillLevel": 2,
+    "type": "ride"
+  },
+  {
+    "name": "Dumbo the Flying Elephant",
+    "land": "Fantasyland",
+    "thrillLevel": 1,
+    "type": "ride"
+  },
+  {
+    "name": "King Arthur Carrousel",
+    "land": "Fantasyland",
+    "thrillLevel": 1,
+    "type": "ride"
+  },
+  {
+    "name": "Mad Tea Party",
+    "land": "Fantasyland",
+    "thrillLevel": 2,
+    "type": "ride"
+  },
+  {
+    "name": "Buzz Lightyear Astro Blasters",
+    "land": "Tomorrowland",
+    "thrillLevel": 2,
+    "type": "ride"
+  },
+  {
+    "name": "Autopia",
+    "land": "Tomorrowland",
+    "thrillLevel": 2,
+    "type": "ride"
+  },
+  {
+    "name": "Jungle Cruise",
+    "land": "Adventureland",
+    "thrillLevel": 1,
+    "type": "ride"
+  },
+  {
+    "name": "Tiana’s Bayou Adventure",
+    "land": "Critter Country",
+    "thrillLevel": 3,
+    "type": "ride"
+  },
+  {
+    "name": "The Many Adventures of Winnie the Pooh",
+    "land": "Critter Country",
+    "thrillLevel": 1,
+    "type": "ride"
+  },
+  {
+    "name": "Roger Rabbit’s Car Toon Spin",
+    "land": "Mickey’s Toontown",
+    "thrillLevel": 2,
+    "type": "ride"
+  },
+  {
+    "name": "Chip 'n' Dale’s GADGETcoaster",
+    "land": "Mickey’s Toontown",
+    "thrillLevel": 3,
+    "type": "ride"
+  },
+  {
+    "name": "Mickey & Minnie’s Runaway Railway",
+    "land": "Mickey’s Toontown",
+    "thrillLevel": 2,
+    "type": "ride"
+  },
+  {
+    "name": "Mark Twain Riverboat",
+    "land": "Frontierland",
+    "thrillLevel": 1,
+    "type": "ride"
+  },
+  {
+    "name": "Sailing Ship Columbia",
+    "land": "Frontierland",
+    "thrillLevel": 1,
+    "type": "ride"
+  },
+  {
+    "name": "Disneyland Railroad",
+    "land": "Multiple Lands",
+    "thrillLevel": 1,
+    "type": "transport"
+  },
+  {
+    "name": "Finding Nemo Submarine Voyage",
+    "land": "Tomorrowland",
+    "thrillLevel": 2,
+    "type": "ride"
+  },
+  {
+    "name": "Astro Orbiter",
+    "land": "Tomorrowland",
+    "thrillLevel": 2,
+    "type": "ride"
+  },
+  {
+    "name": "Storybook Land Canal Boats",
+    "land": "Fantasyland",
+    "thrillLevel": 1,
+    "type": "ride"
+  },
+  {
+    "name": "Casey Jr. Circus Train",
+    "land": "Fantasyland",
+    "thrillLevel": 1,
+    "type": "ride"
+  },
+  {
+    "name": "Alice in Wonderland",
+    "land": "Fantasyland",
+    "thrillLevel": 2,
+    "type": "ride"
+  },
+  {
+    "name": "Sleeping Beauty Castle Walkthrough",
+    "land": "Fantasyland",
+    "thrillLevel": 1,
+    "type": "walkthrough"
+  },
+  {
+    "name": "Pirate’s Lair on Tom Sawyer Island",
+    "land": "Frontierland",
+    "thrillLevel": 1,
+    "type": "walkthrough"
+  },
+  {
+    "name": "Davy Crockett’s Explorer Canoes",
+    "land": "Critter Country",
+    "thrillLevel": 2,
+    "type": "ride"
+  },
+  {
+    "name": "Rivers of America",
+    "land": "Frontierland",
+    "thrillLevel": 1,
+    "type": "ride"
+  },
+  {
+    "name": "Main Street Vehicles",
+    "land": "Main Street, U.S.A.",
+    "thrillLevel": 1,
+    "type": "transport"
+  },
+  {
+    "name": "Great Moments with Mr. Lincoln",
+    "land": "Main Street, U.S.A.",
+    "thrillLevel": 1,
+    "type": "show"
+  },
+  {
+    "name": "Main Street Cinema",
+    "land": "Main Street, U.S.A.",
+    "thrillLevel": 1,
+    "type": "show"
+  },
+  {
+    "name": "Mickey’s House & Meet Mickey",
+    "land": "Mickey’s Toontown",
+    "thrillLevel": 1,
+    "type": "interactive"
+  },
+  {
+    "name": "Minnie's House",
+    "land": "Mickey’s Toontown",
+    "thrillLevel": 1,
+    "type": "interactive"
+  },
+  {
+    "name": "Goofy’s How-To-Play Yard",
+    "land": "Mickey’s Toontown",
+    "thrillLevel": 1,
+    "type": "interactive"
+  },
+  {
+    "name": "Donald’s Duck Pond",
+    "land": "Mickey’s Toontown",
+    "thrillLevel": 1,
+    "type": "interactive"
+  },
+  {
+    "name": "CenTOONial Park",
+    "land": "Mickey’s Toontown",
+    "thrillLevel": 1,
+    "type": "walkthrough"
+  },
+  {
+    "name": "Disneyland Monorail",
+    "land": "Tomorrowland",
+    "thrillLevel": 1,
+    "type": "transport"
+  },
+  {
+    "name": "Star Wars Launch Bay",
+    "land": "Tomorrowland",
+    "thrillLevel": 1,
+    "type": "walkthrough"
+  }
+]
